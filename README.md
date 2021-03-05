@@ -9,21 +9,20 @@ A collection of [ppx-deriving](https://github.com/ocaml-ppx/ppx_deriving) plugin
 * [ppx_deriving_protobuf](https://github.com/ocaml-ppx/ppx_deriving_protobuf): A Protocol Buffers codec generator for OCaml
 
 ### Community
-* [ppx_deriving_cmdliner](https://github.com/hammerlab/ppx_deriving_cmdliner): Ppx_deriving plugin for generating command line interfaces from types (Cmdliner.Term.t)
-* [ppx_deriving_rpc](https://opam.ocaml.org/packages/ppx_deriving_rpc): Ppx deriver for ocaml-rpc, a library to deal with RPCs in OCaml
-* [ppx_deriving_encoding](https://gitlab.com/o-labs/ppx_deriving_encoding): Ppx deriver for json-encoding
-* [ppx_deriving_argparse](https://github.com/masashi-y/ppx_deriving_argparse): Very simple ppx deriver of command line parser for Ocaml >=4.02
-* [ppx_deriving_yaml](https://github.com/patricoferris/ppx_deriving_yaml): Yaml PPX Deriver
+* [ppx_deriving_cmdliner](https://github.com/hammerlab/ppx_deriving_cmdliner): Plugin for generating command line interfaces from types (Cmdliner.Term.t)
+* [ppx_deriving_rpc](https://opam.ocaml.org/packages/ppx_deriving_rpc): Plugin for ocaml-rpc, a library to deal with RPCs in OCaml
+* [ppx_deriving_encoding](https://gitlab.com/o-labs/ppx_deriving_encoding): Plugin for json-encoding
+* [ppx_deriving_argparse](https://github.com/masashi-y/ppx_deriving_argparse): Very simple plugin for command line parser on Ocaml >=4.02
+* [ppx_deriving_yaml](https://github.com/patricoferris/ppx_deriving_yaml): Plugin for Yaml
 * [ppx_deriving_hardcaml](https://github.com/janestreet/ppx_deriving_hardcaml): Rewrite OCaml records for use as Hardcaml Interfaces
-* [ppx_deriving_jsoo](https://gitlab.com/o-labs/ppx_deriving_jsoo): Ppx deriver for Js_of_ocaml
-* [ppx_deriving_crowbar](https://github.com/yomimono/ppx_deriving_crowbar): ppx_deriving plugin for crowbar generators
-* [ppx_deriving_madcast](https://github.com/LesBoloss-es/ppx_deriving_madcast): Library deriving cast functions based on their types.
+* [ppx_deriving_jsoo](https://gitlab.com/o-labs/ppx_deriving_jsoo): Plugin for Js_of_ocaml
+* [ppx_deriving_crowbar](https://github.com/yomimono/ppx_deriving_crowbar): Plugin for crowbar generators
+* [ppx_deriving_madcast](https://github.com/LesBoloss-es/ppx_deriving_madcast): Plugin for cast functions based on their types
 * [ppx_deriving_morphism](https://github.com/choeger/ppx_deriving_morphism): Morphism generator for OCaml >=4.02
-* [js_of_ocaml-ppx_deriving_json](https://opam.ocaml.org/packages/js_of_ocaml-ppx_deriving_json) Compiler from OCaml bytecode to Javascript
 * [ppx_protocol_conv](https://github.com/andersfugmann/ppx_protocol_conv): Pluggable serialization and deserialization of ocaml data strucures based on type_conv
-* [ppx_sexp_conv](https://github.com/janestreet/ppx_sexp_conv): Generation of S-expression conversion functions from type definitions
-* [ppx_accessor](https://github.com/janestreet/ppx_accessor): \[@@deriving\] plugin to generate accessors for use with the Accessor libraries
-* [ppx_python](https://github.com/janestreet/ppx_python): \[@@deriving\] plugin to generate Python conversion functions
+* [ppx_sexp_conv](https://github.com/janestreet/ppx_sexp_conv): Plugin to generate S-expression conversion functions from type definitions
+* [ppx_accessor](https://github.com/janestreet/ppx_accessor): Plugin to generate accessors for use with the Accessor libraries
+* [ppx_python](https://github.com/janestreet/ppx_python): Plugin to generate Python conversion functions
 
 ## Contribution
 
