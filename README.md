@@ -23,6 +23,7 @@ A collection of [ppx-deriving](https://github.com/ocaml-ppx/ppx_deriving) plugin
 * [ppx_sexp_conv](https://github.com/janestreet/ppx_sexp_conv): Plugin to generate S-expression conversion functions from type definitions
 * [ppx_accessor](https://github.com/janestreet/ppx_accessor): Plugin to generate accessors for use with the Accessor libraries
 * [ppx_python](https://github.com/janestreet/ppx_python): Plugin to generate Python conversion functions
+* [ppx_deriving_scad](https://github.com/geoffder/ppx_deriving_scad): Plugin to generate Scad.t, V3.t, and V2.t types of the Scad_ml library.
 
 ## Contribution
 
